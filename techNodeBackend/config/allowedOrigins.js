@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://misterFasterRepairs.onrender.com',
+    'https://misterfasterrepairs.onrender.com',
     // 'http://localhost:5173',
     // 'https://misterfasterrepairs.com'
 ];
